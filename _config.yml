@@ -1,0 +1,14 @@
+layout_spectrum: 0.2918483
+typography_spectrum: 0.2095111
+color:
+  saturation: 0.132387
+  lightness: 0.6345972
+  brandStrength: 0.6361702
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#545342'
+    - '#0D6591'
+    - '#A3B4A3'
+  rhythmicContrast: 0.954879
+name: Filmandy
