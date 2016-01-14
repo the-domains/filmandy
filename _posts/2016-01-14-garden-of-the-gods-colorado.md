@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-01-14T18:50:21.063Z'
+datePublished: '2016-01-14T18:56:41.651Z'
 publisher:
   domain: ''
   name: ''
 title: 'Garden of the Gods, Colorado'
-dateModified: '2016-01-14T18:48:54.695Z'
+dateModified: '2016-01-14T18:50:21.063Z'
 sourcePath: _posts/2016-01-14-garden-of-the-gods-colorado.md
 published: true
 inFeed: true
