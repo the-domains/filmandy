@@ -1,12 +1,12 @@
 ---
 description: Documentary shooting in Colorado.
 author: []
-datePublished: '2016-01-14T18:56:41.893Z'
+datePublished: '2016-01-14T18:57:04.911Z'
 publisher:
   domain: ''
   name: ''
 title: 'Documentary shooting in Colorado. '
-dateModified: '2016-01-14T18:50:40.937Z'
+dateModified: '2016-01-14T18:56:41.893Z'
 sourcePath: _posts/2016-01-14-documentary-shooting-in-colorado.md
 published: true
 inFeed: true
