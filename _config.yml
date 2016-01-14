@@ -1,26 +1,26 @@
-color:
-  saturation: 0.2403035
-  brandStrength: 0.5775717
-  rhythmicContrast: 0.7816189
-  brandColors:
-    - '#010102'
-    - '#8988AB'
-    - '#F3E002'
-    - '#4B4B6E'
-    - '#645B01'
-  lightness: 0.7934233
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.5337268
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.2595745
+  lightness: 0.3787234
+  brandStrength: 0
+  brandColors:
+    - '#010102'
+    - '#8988AB'
+    - '#F3E002'
+    - '#4B4B6E'
+    - '#645B01'
+  rhythmicContrast: 0
 typography_spectrum: 0.93086
+layout_spectrum: 0.5337268
 name: Filmandy
