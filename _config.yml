@@ -1,3 +1,7 @@
+name: Filmandy
+favicon: null
+layout_spectrum: 0.75878
+typography_spectrum: 0.93086
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2595745
-  lightness: 0.3787234
-  brandStrength: 0
   brandColors:
     - '#010102'
     - '#8988AB'
     - '#F3E002'
     - '#4B4B6E'
     - '#645B01'
+  brandStrength: 0
+  lightness: 0.3787234
+  saturation: 0.2595745
   rhythmicContrast: 0
-typography_spectrum: 0.93086
-layout_spectrum: 0.5337268
-name: Filmandy
+purpose: []
